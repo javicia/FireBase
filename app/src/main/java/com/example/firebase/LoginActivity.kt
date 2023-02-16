@@ -2,8 +2,10 @@ package com.example.firebase
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.provider.ContactsContract.CommonDataKinds.Email
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.ktx.Firebase
+import java.nio.channels.spi.AsynchronousChannelProvider
 
 //Splash
 //Thread.sleep(2000) //HACK:
@@ -17,4 +19,5 @@ class LoginActivity : AppCompatActivity() {
         bundle.putString("message","Integración con Firebase completa")
         analytics.logEvent("InitScreen",bundle)
     }
+
 }
