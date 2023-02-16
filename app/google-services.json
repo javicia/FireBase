@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "198989629357",
+    "project_id": "bbdd-paradise",
+    "storage_bucket": "bbdd-paradise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198989629357:android:2b53babc7b8d34cea24324",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198989629357-j6guc95dmbmr3pdp4nmh1va7u04pf618.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20rYaYs0VeGg28MtC1PcYMHTF3I6Mako"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198989629357-j6guc95dmbmr3pdp4nmh1va7u04pf618.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198989629357:android:965d507b5e221cdfa24324",
+        "android_client_info": {
+          "package_name": "com.example.paradisecrossfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198989629357-j6guc95dmbmr3pdp4nmh1va7u04pf618.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20rYaYs0VeGg28MtC1PcYMHTF3I6Mako"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198989629357-j6guc95dmbmr3pdp4nmh1va7u04pf618.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
